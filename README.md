@@ -2,7 +2,7 @@
 ***
 This is my neovim config based on the youtube tutorial by typecraft.
 
-## Build latest Nvim
+## Build latest Nvim & apply config
 1. git clone https://github.com/neovim/neovim
 2. cd neovim && make CMAKE_BUILD_TYPE=RelWithDebInfo
 3. git checkout stable
